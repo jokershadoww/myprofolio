@@ -14,6 +14,10 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">JavaScript</span>
+            <span className="chip">c</span>
+             <span className="chip">PHP</span>       
+            <span className="chip">Laravel</span>
+             <span className="chip">hygraph</span>
             <span className="chip">TypeScript</span>
             <span className="chip">Python</span>
             <span className="chip">C++</span>
