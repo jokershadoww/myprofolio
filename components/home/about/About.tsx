@@ -11,7 +11,7 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText}`}>
-              <span>Hi</span> there! My name is Shiva Bhattacharjee, and I&apos;m a Computer Science student with a passion for creating and designing websites. I have two years of experience in web development, specializing in the MERN stack. I enjoy coding and strive to build modern and visually appealing websites that provide excellent user experiences. I am proficient in front-end technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies like Node.js and MongoDB. I am always eager to learn and explore new technologies and frameworks. If you&apos;re looking for a developer who can deliver high-quality websites with a creative touch, I&apos;m here to help. Let&apos;s collaborate and bring your vision to life!
+              <span>Hi</span> there! My name is Omar Ahmed Arafa , and I have a lot of experience in the field of programming in addition to cyber security. We have programmed hundreds of applications and I have extensive experience in the field of web programming in addition to programming in the Python language and programming desktop applications and hacking applications!
             </p>
           </Reveal>
         </div>
