@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.copyWrapper}>
         <Reveal>
           <h1 className={styles.title}>
-            Hey, I&apos;m Shiva<span>.</span>
+            Hey, I&apos;Omar JR<span>.</span>
           </h1>
         </Reveal>
         <Reveal>
